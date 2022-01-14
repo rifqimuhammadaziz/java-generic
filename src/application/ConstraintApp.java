@@ -27,5 +27,8 @@ public class ConstraintApp {
         }
     }
 
+    // Multiple Bounded Type Parameter (Class & Interface...interface)
+    public static class Data<T extends Number & MultipleConstraintApp.CanSayHello> {
 
+    }
 }
