@@ -6,7 +6,7 @@ public class InvariantApp {
     public static void main(String[] args) {
 
         /**
-         * Invariant
+         * Invariant (Cannot substitute to child/parent)
          * Use object with different generic parameter cause error
          * example : create generic parameter with string, but the object instance using integer
          * must : create generic parameter with string and create object instance with string generic parameter
