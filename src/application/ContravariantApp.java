@@ -6,7 +6,7 @@ public class ContravariantApp {
     public static void main(String[] args) {
 
         /**
-         * Contravarian (Substitute parent  to child) : Object to String
+         * Contravariant (Substitute parent  to child) : Object to String
          *
          */
         MyData<Object> objectMyData = new MyData<>("Xenosty"); // valid (String is child from Object)
