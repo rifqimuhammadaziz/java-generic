@@ -1,4 +1,4 @@
-package generic.application;
+package application;
 
 import generic.MyData;
 
